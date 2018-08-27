@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "name": "xch-fork-babel-plugin-styled-components",
   "description": "Improve the debugging experience and add server-side rendering support to styled-components",
   "repository": "haustralaier/babel-plugin-styled-components",
