@@ -2,7 +2,7 @@
   "version": "1.5.1",
   "name": "xch-fork-babel-plugin-styled-components",
   "description": "Improve the debugging experience and add server-side rendering support to styled-components",
-  "repository": "styled-components/babel-plugin-styled-components",
+  "repository": "haustralaier/babel-plugin-styled-components",
   "contributors": [
     "Vladimir Danchenkov <vladimir.danchenkov@gmail.com>",
     "Max Stoiber <contact@mxstbr.com>"
