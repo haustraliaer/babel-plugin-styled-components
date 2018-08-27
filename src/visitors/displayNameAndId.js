@@ -41,7 +41,7 @@ const getBlockName = file => {
     file.opts.filename,
     path.extname(file.opts.filename)
   )
-  return name !== 'index'
+  return name !== 'index' && name !== 'style'
     ? name
     : path.basename(path.dirname(file.opts.filename))
 }
